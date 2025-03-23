@@ -12,3 +12,6 @@ Gerar  chave SSH para cada pc conectado na conectado
 
 
 git revert (id) //reverte 
+git reset --hard (id do anterior, versao que quer voltar) //apaga um commit
+
+git commit --amend -m "trocar de mensagem commit" // troca a mensagem do commit
