@@ -10,14 +10,5 @@ git clone "link "   clona uma pasta do git
 
 Gerar  chave SSH para cada pc conectado na conectado
 
-git status -- diz quais comandos nao foram atualizados
-git commit -m "mensagem"   //quando for realizado uma mudança/correção bug. Mantem o projeto claro
 
-git log - quais commits foram realizados ao longo do projeto
-
-git remote 
-
-
-adicionar colaboradores no repositorio. Para poderem fazer commit no projeto original 
-
-git pull  -baixa os novos commits dos colaboradores
+git revert (id) //reverte 
